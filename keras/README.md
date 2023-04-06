@@ -1,0 +1,11 @@
+环境信息:
+<br>
+python==3.9
+<br>
+torch==1.12.1+cu113
+<br>
+transformers==4.26.1
+<br>
+datasets==2.9.0
+<br>
+music21==8.1.0
