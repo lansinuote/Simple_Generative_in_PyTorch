@@ -9,3 +9,7 @@ transformers==4.26.1
 datasets==2.9.0
 <br>
 music21==8.1.0
+<br><br>
+2023年4月27日更新:
+<br>
+1.ae,2.vae,3.dcgan,4.wgan,5wgangp,这5个任务的生成模型的code从768维,降低到128维.
